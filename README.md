@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romero Federico</h1>
-<h3 align="center">A Full-Stack Developer from Buenos Aires, Argentina</h3>
+<h3 align="center">I'm a Full-Stack developer with a Front-end orientation, with an emphasis on creating sites that grab the user's attention and, at the same time, are highly responsive and robust.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romerofederico&label=Profile%20views&color=0e75b6&style=flat" alt="romerofederico" /> </p>
 
