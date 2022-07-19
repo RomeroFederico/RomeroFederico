@@ -35,5 +35,4 @@ I'm a Full-Stack developer with a Front-end orientation, with an emphasis on cre
 
 
 ### Projects
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
-|-------------|-------------------|---|---|
+|Project :octocat:|Description :pencil2:|Link :link:|
