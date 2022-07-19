@@ -8,7 +8,7 @@ I'm a Full-Stack developer with a Front-end orientation, with an emphasis on cre
 
 - 📫 How to reach me **romerof14@gmail.com**
 
-### Connect with me:
+- 🔰 Also on Linkedin **https://www.linkedin.com/in/federico-romero-fullstack**
 
 
 ### Languages and Tools:
