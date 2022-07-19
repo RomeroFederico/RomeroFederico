@@ -32,3 +32,8 @@ I'm a Full-Stack developer with a Front-end orientation, with an emphasis on cre
 ### Tools
 ![Git](https://img.shields.io/badge/Git-green?style=plastic&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-green?style=plastic&logo=figma)
+
+
+### Projects
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
