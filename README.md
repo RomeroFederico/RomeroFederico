@@ -15,22 +15,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<ul>
-<li><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>Angular</li>
-<li><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></li>
-<li><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a></li>
-<li><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></li>
-<li><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></li>
-<li><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></li>
-<li><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></li>
-<li><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></li>
-<li><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></li>
-<li><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></li>
-<li><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></li>
-<li><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></li>
-<li><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></li>
-<li><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a></li>
-</ul>
+### Front-End
+![Angular](https://img.shields.io/badge/Angular-green?style=plastic&logo=angular)
+![React](https://img.shields.io/badge/React-green?style=plastic&logo=react)
+![Redux](https://img.shields.io/badge/Redux-green?style=plastic&logo=redux)
+![CSS3](https://img.shields.io/badge/CSS3-green?style=plastic&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-green?style=plastic&logo=html5)
+![JavaScript](https://img.shields.io/badge/JavaScript-green?style=plastic&logo=javascript)
+### Back-End
+![Node.js](https://img.shields.io/badge/Node.js-green?style=plastic&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/MySQL-green?style=plastic&logo=mysql)
+![Sequelize](https://img.shields.io/badge/Sequelize-green?style=plastic&logo=sequelize)
+![Express](https://img.shields.io/badge/Express-green?style=plastic&logo=express)
+![PHP](https://img.shields.io/badge/PHP-green?style=plastic&logo=php)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=plastic&logo=postgresql)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romerofederico&show_icons=true&locale=en" alt="romerofederico" /></p>
