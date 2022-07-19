@@ -28,7 +28,7 @@ I'm a Full-Stack developer with a Front-end orientation, with an emphasis on cre
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=plastic&logo=postgresql)
 #### Other Languages
 ![C](https://img.shields.io/badge/C-green?style=plastic&logo=c)
-![C Sharp](https://img.shields.io/badge/C Sharp-green?style=plastic&logo=csharp)
+![C Sharp](https://img.shields.io/badge/C-Sharp-green?style=plastic&logo=csharp)
 ### Tools
 ![Git](https://img.shields.io/badge/Git-green?style=plastic&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-green?style=plastic&logo=figma)
