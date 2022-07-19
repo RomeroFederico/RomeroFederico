@@ -15,14 +15,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-### Front-End
+Front-End
 ![Angular](https://img.shields.io/badge/Angular-green?style=plastic&logo=angular)
 ![React](https://img.shields.io/badge/React-green?style=plastic&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-green?style=plastic&logo=redux)
 ![CSS3](https://img.shields.io/badge/CSS3-green?style=plastic&logo=css3)
 ![HTML5](https://img.shields.io/badge/HTML5-green?style=plastic&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-green?style=plastic&logo=javascript)
-### Back-End
+Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=plastic&logo=nodedotjs)
 ![MySQL](https://img.shields.io/badge/MySQL-green?style=plastic&logo=mysql)
 ![Sequelize](https://img.shields.io/badge/Sequelize-green?style=plastic&logo=sequelize)
