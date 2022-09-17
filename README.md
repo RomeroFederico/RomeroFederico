@@ -2,7 +2,7 @@
 
 I'm a Full-Stack developer with a Front-end orientation, with an emphasis on creating sites that grab the user's attention and, at the same time, are highly responsive and robust.
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://romerofederico.github.io/Portfolio-Github-Pages/](https://romerofederico.github.io/Portfolio-Github-Pages/)
 
@@ -19,8 +19,10 @@ I'm a Full-Stack developer with a Front-end orientation, with an emphasis on cre
 ![CSS3](https://img.shields.io/badge/CSS3-green?style=plastic&logo=css3)
 ![HTML5](https://img.shields.io/badge/HTML5-green?style=plastic&logo=html5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-green?style=plastic&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TpeScript-green?style=plastic&logo=typescript)
 #### Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=plastic&logo=nodedotjs)
+![Java Spring Boot](https://img.shields.io/badge/JavaSpringBoot-green?style=plastic&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-green?style=plastic&logo=mysql)
 ![Sequelize](https://img.shields.io/badge/Sequelize-green?style=plastic&logo=sequelize)
 ![Express](https://img.shields.io/badge/Express-green?style=plastic&logo=express)
